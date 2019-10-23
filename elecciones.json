@@ -1,0 +1,379 @@
+{
+  "title": "Elecciones PASO 2019",
+  "linkURL": "https://www.pagina12.com.ar/211271-los-resultados-de-las-paso-2019-en-todo-el-pais/",
+  "linkText": "Ver mapa",
+  "tabs": [	{
+	  "id": "000100000000000",
+	  "title": "Nacional",
+	  "countedTables": 98.75,
+	  "totalVotes": 23629255,
+	  "items": [ 
+		{
+		  "id": "000100000000000.136.A.000100000000000.136",
+		  "name": "Alberto Angel Fernández",
+		  "percent": 49.19,
+		  "votes": 11622428,
+		  "photo": "https://images.pagina12.com.ar/2019-08/alberto_0.jpg",
+		  "party": "FRENTE DE TODOS - CELESTE Y BLANCA",
+		  "partyColor": "steelblue"
+		},
+		{
+		  "id": "000100000000000.135.A.000100000000000.135",
+		  "name": "Mauricio Macri",
+		  "percent": 33.12,
+		  "votes": 7825208,
+		  "photo": "https://images.pagina12.com.ar/2019-08/macri_0.jpg",
+		  "party": "JUNTOS POR EL CAMBIO - JUNTOS SOMOS EL CAMBIO",
+		  "partyColor": "orange"
+		},
+		{
+		  "id": "000100000000000.137.A.000100000000000.137",
+		  "name": "Roberto Lavagna",
+		  "percent": 8.49,
+		  "votes": 2007035,
+		  "photo": "https://images.pagina12.com.ar/2019-08/lavagna_0.jpg",
+		  "party": "CONSENSO FEDERAL - CONSENSO PARA EL FUTURO",
+		  "partyColor": "green"
+		},
+		{
+		  "id": "000100000000000.133.A.000100000000000.133",
+		  "name": "Nicolas Del Caño",
+		  "percent": 2.95,
+		  "votes": 697776,
+		  "photo": "https://images.pagina12.com.ar/2019-08/delcanio_2.jpg",
+		  "party": "FRENTE DE IZQUIERDA Y DE TRABAJADORES - UNIDAD - UNIDAD",
+		  "partyColor": "red"
+		},
+		{
+		  "id": "000100000000000.131.A.000100000000000.131",
+		  "name": "Juan Jose Gomez Centurión",
+		  "percent": 2.72,
+		  "votes": 642662,
+		  "photo": "https://images.pagina12.com.ar/2019-08/gomez-centurion_0.jpg",
+		  "party": "FRENTE NOS - CELESTE 2019",
+		  "partyColor": "grey"
+		},
+		{
+		  "id": "000100000000000.87.A.000100000000000.87",
+		  "name": "Jose Luis Espert",
+		  "percent": 2.26,
+		  "votes": 533100,
+		  "photo": "https://images.pagina12.com.ar/2019-08/espert_0.jpg",
+		  "party": "UNITE POR LA LIBERTAD Y LA DIGNIDAD - DESPERTAR",
+		  "partyColor": "purple"
+		},
+		{
+		  "id": "000100000000000.13.A.000100000000000.13",
+		  "name": "Manuela Jimena Castañeira",
+		  "percent": 0.73,
+		  "votes": 173585,
+		  "photo": "https://images.pagina12.com.ar/2019-08/castaneira_0.jpg",
+		  "party": "MOVIMIENTO AL SOCIALISMO - UNIDAD DE LA IZQUIERDA",
+		  "partyColor": "magenta"
+		},
+		{
+		  "id": "000100000000000.132.A.000100000000000.132",
+		  "name": "Alejandro Carlos Biondini",
+		  "percent": 0.25,
+		  "votes": 58575,
+		  "photo": "https://images.pagina12.com.ar/2019-08/biondini_0.jpg",
+		  "party": "FRENTE PATRIOTA - CELESTE",
+		  "partyColor": "grey"
+		},
+		{
+		  "id": "000100000000000.57.A.000100000000000.57",
+		  "name": "Raul Humberto Albarracín",
+		  "percent": 0.15,
+		  "votes": 36324,
+		  "photo": "https://images.pagina12.com.ar/2019-08/albarracin_0.jpg",
+		  "party": "MOVIMIENTO DE ACCION VECINAL - COMPROMISO VECINAL",
+		  "partyColor": "grey"
+		},
+		{
+		  "id": "000100000000000.36.A.000100000000000.36",
+		  "name": "Jose Antonio Romero Feris",
+		  "percent": 0.14,
+		  "votes": 32562,
+		  "photo": "https://images.pagina12.com.ar/2019-08/romero-feris_0.jpg",
+		  "party": "PARTIDO AUTONOMISTA - VALORES Y EXPERIENCIA",
+		  "partyColor": "grey"
+		}
+
+	  ]
+	},
+
+	{
+	  "id": "000402000000000",
+	  "title": "Buenos Aires",
+	  "countedTables": 98.57,
+	  "totalVotes": 8785463,
+	  "items": [ 
+		{
+		  "id": "000402000000000.02-503.2.000402000000000.02-503",
+		  "name": "Axel Kicillof",
+		  "percent": 52.53,
+		  "votes": 4615251,
+		  "photo": "https://images.pagina12.com.ar/2019-08/kicillof_0.jpg",
+		  "party": "FRENTE DE TODOS - CELESTE Y BLANCA - 2",
+		  "partyColor": "steelblue"
+		},
+		{
+		  "id": "000402000000000.135.1A.000402000000000.135",
+		  "name": "María Eugenia Vidal",
+		  "percent": 34.67,
+		  "votes": 3046003,
+		  "photo": "https://images.pagina12.com.ar/2019-08/vidal_0.jpg",
+		  "party": "JUNTOS POR EL CAMBIO - 1A - AMARILLO",
+		  "partyColor": "orange"
+		},
+		{
+		  "id": "000402000000000.137.A.000402000000000.137",
+		  "name": "Eduardo Bucca",
+		  "percent": 6.2,
+		  "votes": 545118,
+		  "photo": "https://images.pagina12.com.ar/2019-08/bucca_0.jpg",
+		  "party": "CONSENSO FEDERAL - HAY CONSENSO",
+		  "partyColor": "green"
+		},
+		{
+		  "id": "000402000000000.133.A.000402000000000.133",
+		  "name": "Christian Castillo",
+		  "percent": 3.47,
+		  "votes": 304821,
+		  "photo": "https://images.pagina12.com.ar/2019-08/castillo_0.jpg",
+		  "party": "FRENTE DE IZQUIERDA Y DE TRABAJADORES - UNIDAD - UNIDAD",
+		  "partyColor": "red"
+		},
+		{
+		  "id": "000402000000000.02-1911.A.000402000000000.02-1911",
+		  "name": "Gustavo Ricardo Alvarez",
+		  "percent": 1.8,
+		  "votes": 157845,
+		  "photo": "https://images.pagina12.com.ar/2019-08/alvarez_0.jpg",
+		  "party": "FRENTE NOS - LINEA ÚNICA",
+		  "partyColor": "grey"
+		},
+		{
+		  "id": "000402000000000.02-276.1A.000402000000000.02-276",
+		  "name": "Martín González Bayón",
+		  "percent": 0.73,
+		  "votes": 63976,
+		  "photo": "https://images.pagina12.com.ar/2019-08/gonzalez-bayon_0.jpg",
+		  "party": "MOVIMIENTO DE AVANZADA SOCIALISTA - UNIDAD DE LA IZQUIERDA",
+		  "partyColor": "magenta"
+		},
+		{
+		  "id": "000402000000000.02-865.A.000402000000000.02-865",
+		  "name": "Renato Ramón Bariani",
+		  "percent": 0.24,
+		  "votes": 20881,
+		  "photo": "https://images.pagina12.com.ar/2019-08/bariani_0.jpg",
+		  "party": "FRENTE PATRIOTA - LEALTAD",
+		  "partyColor": "grey"
+		},
+		{
+		  "id": "000402000000000.02-816.1A.000402000000000.02-816",
+		  "name": "Santiago Cúneo",
+		  "percent": 0.23,
+		  "votes": 20452,
+		  "photo": "https://images.pagina12.com.ar/2019-08/cuneo_0.jpg",
+		  "party": "PARTIDO DIGNIDAD POPULAR - POR LA VIDA",
+		  "partyColor": "grey"
+		},
+		{
+		  "id": "000402000000000.02-309.A.000402000000000.02-309",
+		  "name": "María Asunción Macaione",
+		  "percent": 0.13,
+		  "votes": 11116,
+		  "photo": "default.jpg",
+		  "party": "MOVIMIENTO ORGANIZACION DEMOCRATICA - AZUL Y BLANCO",
+		  "partyColor": "grey"
+		}
+
+	  ]
+	},
+
+	{
+	  "id": "000403000000000",
+	  "title": "Catamarca",
+	  "countedTables": 98.5,
+	  "totalVotes": 168704,
+	  "items": [ 
+		{
+		  "id": "000403000000000.03-503.A.000403000000000.03-503",
+		  "name": "Raúl Jalil",
+		  "percent": 63,
+		  "votes": 106277,
+		  "photo": "https://images.pagina12.com.ar/2019-08/jalil_0.jpg",
+		  "party": "FRENTE DE TODOS - LISTA A",
+		  "partyColor": "steelblue"
+		},
+		{
+		  "id": "000403000000000.03-506.A.000403000000000.03-506",
+		  "name": "Roberto Gómez",
+		  "percent": 27.6,
+		  "votes": 46557,
+		  "photo": "https://images.pagina12.com.ar/2019-08/gomez_0.jpg",
+		  "party": "JUNTOS POR EL CAMBIO - LISTA A",
+		  "partyColor": "orange"
+		},
+		{
+		  "id": "000403000000000.03-504.A.000403000000000.03-504",
+		  "name": "Hugo Ávila",
+		  "percent": 4.82,
+		  "votes": 8139,
+		  "photo": "https://images.pagina12.com.ar/2019-08/avila_0.jpg",
+		  "party": "CONSENSO FEDERAL - LISTA A",
+		  "partyColor": "green"
+		},
+		{
+		  "id": "000403000000000.03-69.A.000403000000000.03-69",
+		  "name": "José Furque",
+		  "percent": 2.74,
+		  "votes": 4626,
+		  "photo": "https://images.pagina12.com.ar/2019-08/furque_0.jpg",
+		  "party": "GEM - LISTA A",
+		  "partyColor": "green"
+		},
+		{
+		  "id": "000403000000000.03-505.A.000403000000000.03-505",
+		  "name": "Ariel López",
+		  "percent": 1.44,
+		  "votes": 2426,
+		  "photo": "https://images.pagina12.com.ar/2019-08/lopez_0.jpg",
+		  "party": "FRENTE DE IZQUIERDA Y DE TRABAJADORES - UNIDAD - UNIDAD",
+		  "partyColor": "red"
+		},
+		{
+		  "id": "000403000000000.03-501.A.000403000000000.03-501",
+		  "name": "Franco Luna",
+		  "percent": 0.4,
+		  "votes": 679,
+		  "photo": "default.jpg",
+		  "party": "FRENTE UNIDOS POR LA GENTE - LISTA A",
+		  "partyColor": "grey"
+		}
+
+	  ]
+	},
+
+	{
+	  "id": "000501000000000",
+	  "title": "CABA",
+	  "countedTables": 99.95,
+	  "totalVotes": 1776148,
+	  "items": [ 
+		{
+		  "id": "000501000000000.01-503.A.000501000000000.01-503",
+		  "name": "Horacio Rodríguez Larreta",
+		  "percent": 50.56,
+		  "votes": 898075,
+		  "photo": "https://images.pagina12.com.ar/2019-08/rodriguez-larreta_0.jpg",
+		  "party": "JUNTOS POR EL CAMBIO - JUNTOS SOMOS EL CAMBIO",
+		  "partyColor": "orange"
+		},
+		{
+		  "id": "000501000000000.01-502.A.000501000000000.01-502",
+		  "name": "Matías Lammens Nuñez",
+		  "percent": 34.73,
+		  "votes": 616906,
+		  "photo": "https://images.pagina12.com.ar/2019-08/lammens_0.jpg",
+		  "party": "FRENTE DE TODOS - CELESTE Y BLANCA",
+		  "partyColor": "steelblue"
+		},
+		{
+		  "id": "000501000000000.01-504.A.000501000000000.01-504",
+		  "name": "Matías Tombolini",
+		  "percent": 7.86,
+		  "votes": 139571,
+		  "photo": "https://images.pagina12.com.ar/2019-08/tombolini_0.jpghttps://images.pagina12.com.ar/2019-08/tombolini_0.jpg",
+		  "party": "CONSENSO FEDERAL - CONSENSO PARA EL FUTURO",
+		  "partyColor": "green"
+		},
+		{
+		  "id": "000501000000000.01-501.A.000501000000000.01-501",
+		  "name": "Gabriel Esteban Solano",
+		  "percent": 4.36,
+		  "votes": 77494,
+		  "photo": "https://images.pagina12.com.ar/2019-08/solano_0.jpg",
+		  "party": "FRENTE DE IZQUIERDA Y DE TRABAJADORES - UNIDAD - UNIDAD",
+		  "partyColor": "red"
+		},
+		{
+		  "id": "000501000000000.01-187.A.000501000000000.01-187",
+		  "name": "Marta Martinez",
+		  "percent": 1.32,
+		  "votes": 23392,
+		  "photo": "https://images.pagina12.com.ar/2019-08/martinez_0.jpg",
+		  "party": "AUTODETERMINACION Y LIBERTAD - QUE LOS PUEBLOS MANDEN",
+		  "partyColor": "brown"
+		},
+		{
+		  "id": "000501000000000.13.A.000501000000000.13",
+		  "name": "Miguel Ángel Forte",
+		  "percent": 0.99,
+		  "votes": 17525,
+		  "photo": "https://images.pagina12.com.ar/2019-08/forte_0.jpg",
+		  "party": "MOVIMIENTO AL SOCIALISMO - UNIDAD DE LA IZQUIERDA",
+		  "partyColor": "magenta"
+		},
+		{
+		  "id": "000501000000000.88.1A.000501000000000.88",
+		  "name": "Leonardo Martínez Herrero",
+		  "percent": 0.12,
+		  "votes": 2208,
+		  "photo": "https://images.pagina12.com.ar/2019-08/martinez-herrero_0.jpg",
+		  "party": "PARTIDO DIGNIDAD POPULAR - LIBERACION",
+		  "partyColor": "grey"
+		},
+		{
+		  "id": "000501000000000.87.B.000501000000000.87",
+		  "name": "Roberto Leon Valerstein",
+		  "percent": 0.06,
+		  "votes": 977,
+		  "photo": "https://images.pagina12.com.ar/2019-08/valerstein_0.jpg",
+		  "party": "UNITE POR LA LIBERTAD Y LA DIGNIDAD - LISTA DIGNIDAD",
+		  "partyColor": "purple"
+		}
+
+	  ]
+	},
+	{
+	  "id": "000412000000000",
+	  "title": "La Rioja",
+	  "countedTables": 98.5,
+	  "totalVotes": 168704,
+	  "items": [ 
+		{
+		  "id": "000412000000000.03-503.A.000403000000000.03-503",
+		  "name": "Ricardo Quintela",
+		  "percent": 63,
+		  "votes": 106277,
+		  "photo": "https://images.pagina12.com.ar/2019-10/ricardo-quintela.jpg",
+		  "party": "FRENTE DE TODOS - LISTA A",
+		  "partyColor": "steelblue"
+		},
+		{
+		  "id": "000412000000000.03-506.A.000403000000000.03-506",
+		  "name": "Julio Martínez",
+		  "percent": 27.6,
+		  "votes": 46557,
+		  "photo": "https://images.pagina12.com.ar/2019-10/julio-martinez-ucr.png",
+		  "party": "JUNTOS POR LA RIOJA - LISTA A",
+		  "partyColor": "orange"
+		},
+		{
+		  "id": "000412000000000.03-504.A.000403000000000.03-504",
+		  "name": "Luis Beder Herrera",
+		  "percent": 4.82,
+		  "votes": 8139,
+		  "photo": "https://images.pagina12.com.ar/2019-10/luis-beder-herrera.png",
+		  "party": "NUESTRA RIOJA - LISTA A",
+		  "partyColor": "green"
+		}
+
+	  ]
+	}
+
+  ]
+}
